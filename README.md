@@ -2,3 +2,6 @@
 
 ![](https://www.alura.com.br/assets/api/share/curso-scrum-parte-1.png)
 
+## Introdução e definição do Scrum
+
+
